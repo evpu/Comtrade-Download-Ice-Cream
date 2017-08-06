@@ -1,3 +1,8 @@
+# ************************************************************************
+# Exploratory charts for imports and exports of ice cream.
+# https://github.com/evpu
+# ************************************************************************
+
 import pandas as pd
 import os
 import seaborn as sns

@@ -1,3 +1,9 @@
+# ************************************************************************
+# Downloading data from Comtrade API, keeping a log of successful downloads and errors.
+# Example: ice cream imports and exports
+# https://github.com/evpu
+# ************************************************************************
+
 import pandas as pd
 import os
 import json
