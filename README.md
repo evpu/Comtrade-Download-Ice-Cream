@@ -36,7 +36,7 @@ The European countries seem to be at the lead in terms of both imports and expor
 
 Most of the countries with large trade flows tend do export more ice cream than they import, with the exception of Spain and the United Kingdom.
 
-![Ice Cream: Scatterplot (Million $US)](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_scatter_usd.png)
+![Ice Cream: Scatterplot (Million $US)](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_scatter.png)
 
 Notably, the distribution of prices per kilogram of ice cream is approximately the same for imports and exports.
 
