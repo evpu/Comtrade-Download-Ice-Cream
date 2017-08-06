@@ -32,12 +32,12 @@ After firing up the code and waiting a while to download everything, let's explo
 
 The European countries seem to be at the lead in terms of both imports and exports of ice cream. The USA is also a big producer.
 
-![Ice Cream: Top Importers and Exporters (Million $US)](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_bar.png)
+![Ice Cream: Top Importers and Exporters (Million $US)](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_bar.png  =250x)
 
 Most of the countries with large trade flows tend do export more ice cream than they import, with the exception of Spain and the United Kingdom.
 
-![Ice Cream: Scatterplot (Million $US)](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_scatter.png)
+![Ice Cream: Scatterplot (Million $US)](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_scatter.png =250x)
 
 Notably, the distribution of prices per kilogram of ice cream is approximately the same for imports and exports.
 
-![Ice Cream: Price per Kilogram](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_histogram.png)
+![Ice Cream: Price per Kilogram](https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_histogram.png  =250x)
