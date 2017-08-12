@@ -41,3 +41,5 @@ Most of the countries with large trade flows tend do export more ice cream than 
 Notably, the distribution of prices per kilogram of ice cream is approximately the same for imports and exports.
 
 <img src="https://raw.githubusercontent.com/evpu/Comtrade-Download-Ice-Cream/master/ice_cream_histogram.png" alt="Ice Cream: Price per Kilogram" width="600">
+
+Source: DESA/UNSD, United Nations Comtrade database
